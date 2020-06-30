@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.pink-highlight{
+    color:rgb(204, 19, 96)
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.header-section{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    padding-top: 100px;
+}
+.personal-bio{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+    
+}
+.personal-bio img{
+    width: 100%;
+    margin-left: 15%;
+    
+}
+.link-button{
+     text-decoration: none;
+     background-color: rgb(204, 19, 96);
+     padding: 10px 20px;
+     border-radius: 5px;
+     font-weight: bold;
+     color: white;
+}
+.link-button:hover{
+    background-color: purple;
+    font-size: large;
+    text-decoration: underline;
+}
+.biography-section{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    padding-top: 100px;
+   
+}
+.work{
+    text-align: center;
+}
+.work-image-1 img{
+    width: 30%;
+    float: left;
+    margin-right: 2%;
+    padding-left: 2%;
+    
+   
+}
+
+.work-image-2 img{
+    width: 30%;
+    float: left;
+    margin-right: 2%;
+    padding-left: 2%;
+   
+}
+.work-image-3 img{
+    width: 30%;
+   
+}
+.work-area{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.footer-area{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+
+
+.client-part{
+    text-align: center;
+}
+.footer-part{
+    color: white;
+    background-color: rgb(230, 23, 150);
+    text-align: center;
+    padding: 30px;
+    margin: 150px;
+}
+.profile-img {
+    width: 500px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+
+
+.header-contact {
+    float: right;
+    padding: 30px;
+    color: teal;
+    font-weight: bold;
+    width:30%;
+}
+.header-contact a{
+    text-decoration: none;
+    color:teal;
+    
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+.right-side {
+    float: left;
+    width: 70%;
+    margin-top: 50px;
+    color: teal;
+    
+    }
+    .left-side {
+        float: left;
+        width: 30%;
+        margin-top: 50px;
+        color: rgb(214, 29, 214);
+       
+    }
+    #personal-section{
+        background-color: rgb(242, 249, 255);
+        background-image: linear-gradient(rgb(220, 222, 235),rgb(171, 171, 184));
+        
+    }
+    .content{
+        margin-left: 100px;
+    }
+    
